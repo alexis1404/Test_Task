@@ -1,0 +1,32 @@
+body {
+    background: url("../image/background_1.jpg");
+    background-color: #cccccc;
+}
+
+.task_body{
+    width: 30%;
+    border: double;
+    padding: 10px;
+}
+
+#output_task {
+    width: 30%;
+    border: double;
+    position: absolute;
+    left: 33%;
+    top: 1%;
+    padding: 10px;
+}
+
+.outs{
+    white-space: normal;
+}
+
+.completed_tasks {
+    width: 30%;
+    border: double;
+    position: absolute;
+    left: 67%;
+    top: 1%;
+    padding: 10px;
+}
